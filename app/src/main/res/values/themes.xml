@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyOwnCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="buttonTint">@color/background2</item>
+        <item name="buttonTintMode">add</item>
+    </style>
+
+    <style name="Theme.MyOwnCalculator" parent="Base.Theme.MyOwnCalculator" />
+</resources>
